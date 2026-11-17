@@ -1,0 +1,20 @@
+# Build & Binary outputs
+output/
+*.exe
+*.o
+*.obj
+*.out
+
+# Debugger / Dump logs
+*.log
+*.dump
+*.stackdump
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*~
